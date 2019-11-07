@@ -20,3 +20,5 @@
 -> git push -u origin master
 // Bajamos los archivos del repositorio remoto
 -> git pull 
+// Clonamos una ruta en una carpeta de nuestro ordenador 
+-> git clone https://github.com/elbajo001/ejm_git.git nombre_carpeta
