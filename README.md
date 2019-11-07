@@ -1,7 +1,7 @@
 # Ejemplo de git básico 
 
 // Iniciar un nuevo repositorio (se inicializa una vez por respositorio)
--> git init
+-> git init\n
 // Ver que archivos no han sido registrados
 -> git status
 // Solo muestra los archivos modificados
