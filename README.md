@@ -18,3 +18,5 @@
 -> git remote add origin https://github.com/elbajo001/ejm_git.git
 // Subimos los archivos al repositorio remoto
 -> git push -u origin master
+// Bajamos los archivos del repositorio remoto
+-> git pull 
